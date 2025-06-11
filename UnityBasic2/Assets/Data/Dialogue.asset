@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67b3ff369605bac42a4e0cf9efb67bfb, type: 3}
+  m_Name: Dialogue
+  m_EditorClassIdentifier: 
+  SheetName: Assets/Data/Data.xlsx
+  WorksheetName: Dialogue
+  dataArray:
+  - id: 1
+    character: 10101
+    position: 5
+    bg: BG1
+    dialogue: "\uB2E4\uB4E4 \uC5EC\uAE30\uC11C \uBB50\uD558\uACE0 \uC788\uB294\uAC70\uC8E0?"
+  - id: 2
+    character: 10102
+    position: 4
+    bg: BG2
+    dialogue: "\uC5EC\uAE30\uC11C \uBB58\uD558\uB358 \uBB34\uC2A8\uC0C1\uAD00?"
+  - id: 3
+    character: 10102
+    position: 3
+    bg: BG3
+    dialogue: "\uC0C1\uAD00 \uC788\uC73C\uB2C8\uAE4C \uBB3C\uC5B4\uBCF4\uB294\uAC74\uB370?"
+  - id: 4
+    character: 10102
+    position: 2
+    bg: BG4
+    dialogue: "\uC544\uB2C8 \uADF8\uB2C8\uAE4C \uADF8\uAC78 \uC65C \uBB3C\uC5B4\uBCF4\uB0D0\uACE0"
+  - id: 5
+    character: 10102
+    position: 1
+    bg: BG5
+    dialogue: "\uCC98\uC74C\uBD80\uD130 \uADF8\uB807\uAC8C \uB9D0\uD588\uC5B4\uC57C\uC9C0."
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
+  - id: 0
+    character: 0
+    position: 0
+    bg: 
+    dialogue: 
